@@ -59,6 +59,10 @@ section{
     font-size: 2em;
 }
 
+section > p{
+    padding-bottom: 2em;
+}
+
 section.normal{
     background-color: white;
     color: black;
@@ -72,6 +76,14 @@ section.imagem{
 section.imagem > p{
     width: 400px;
     background-color: rgba(0, 0, 0, 0.253);
+
+}
+
+section#img01{
+   background-image: url('');
+}
+
+section#img02{
 
 }
 
